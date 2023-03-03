@@ -117,7 +117,6 @@ namespace COMP003A.LectureActivity07
              {
                     Console.WriteLine(item);
              }
-         }
-        
+         }        
     }
 }
